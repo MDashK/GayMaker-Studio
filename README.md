@@ -1,5 +1,5 @@
 # v1.3
-Bigfix (now it compiles with shaders)
+Bugfix (now it compiles correctly with shaders)
 
 Download: https://github.com/MDashK/GayMaker-Studio/releases/download/v1.3/GayMaker-Studio.1.3.zip
 
