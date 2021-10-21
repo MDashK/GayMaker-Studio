@@ -19,12 +19,8 @@ Then GayMaker would crash (IT WAS A STRANGE PARSER DIFFERNTAL xD)
 See issue [#9 on GayMaker](https://bitbucket.org/SilicaAndPina/gaymaker/issues/9/global-game-settings)    
 Added an update-checker it'll ask you if you want to update when a new update is avalible.          
 
-Download: https://bitbucket.org/SilicaAndPina/gaymaker-studio/downloads/GayMaker-Studio%201.1.zip    
-
 # v1.0
-Inital Release!   
-
-Download: https://bitbucket.org/SilicaAndPina/gaymaker-studio/downloads/GayMaker-Studio.zip     
+Inital Release!       
      
 #GayMaker: Studio
 
