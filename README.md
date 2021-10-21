@@ -1,3 +1,8 @@
+# v1.3
+Bigfix (now it compiles with shaders)
+
+Download: https://github.com/MDashK/GayMaker-Studio/releases/download/v1.3/GayMaker-Studio.1.3.zip
+
 # v1.2 
 Short Circuit Evaulations setting is now applied correctly
 Fixed auto updater
